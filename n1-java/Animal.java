@@ -9,7 +9,7 @@ public class Animal {
             gato.idade = 0.3;
 
             System.out.println("\n---------Animais = GATO--------\n");
-            System.out.println("Nome: " + gato.nome);
+            System.out.println("Nome: " + gato.nome +"  //E realmente o nome do meu gato"); //É realmente o nome do meu gato
             System.out.println("Peso: " + gato.peso);
             System.out.println("Raca: " + gato.raca);
             System.out.println("Cor: " + gato.cor);

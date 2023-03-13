@@ -1,5 +1,5 @@
 # n1-p.o.o
-N1 da disciplina de Programação Orientado a Objeto, da Prof. Letícia Pieper.
+N1 da disciplina de Programação Orientado a Objeto I, da Prof. Letícia Pieper.
 
 Ao rodar o código será plotado os seguintes resultados:
 

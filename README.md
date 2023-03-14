@@ -2,7 +2,7 @@
 N1 da disciplina de Programação Orientado a Objeto I, da Prof. Letícia Pieper.
 
 Requesitos: 
-  o animal deve ter nome(String), idade(int), peso(int), raça(String), cor(String)
+  o animal deve ter nome(String), idade(int), peso(double), raça(String), cor(String)
 
 Ao rodar o código será plotado os seguintes resultados:
 

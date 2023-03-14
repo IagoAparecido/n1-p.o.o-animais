@@ -2,7 +2,7 @@ public class Gato {
       String nome;
       String raca;
       String cor;
-      double idade;
+      int idade;
       double peso;
       boolean fome;
 
